@@ -1,0 +1,123 @@
+{
+  "Menu": {
+    "slow1": "Hi *clears throat* welcome test subject 4568 to your testing simulation. Yes, I see you there behind that screen, so dont go trying anything funny. Im always watching",
+    "slow2": "Well, hurry along then, click that play button",
+    "slow3": "Perhaps you dont understand me, click the button that has the letters P L A and Y",
+    "slow4": "You think you are funny, dont you? I could think of about 100 more things more productive than waiting on the menu screen with you, like helping out the other test subjects, or writing a book, or perhaps reading up on how to motovate A STUBBORN TEST SUBJECT THAT WONT DO AS HE OR SHE IS TOLD",
+    "slow5": "You know what, ill be back when you decide to click play, Im going to go write my book."
+  },
+
+  "Level 1": {
+    "start": [
+      "So, I see you've finally decided to press 'play' *wonderful*. Well, I suppose I should welcome you then.",
+      "I'm Dr. Scheer, your testing supervisor (not that it will matter much soon). The reasons for you being here are irrelevant. You will do as instructed and proceed through each testing chamber as quickly as possible. Is that understood?",
+      "Oh and before I forget, best of luck. Not that you need it, but I was advised to give positive reinforcement or some such nonsense.",
+      "Anyway, please proceed to the first testing chamber.",
+      "(Oookay...) When's the last time you actually spoke to another person? Maybe try disconnecting for a while? Pretty sure the internet would appreciate that."
+    ],
+    "main": [
+      "*heavy sigh* All right, consider this: your connection is acting strange. What do you do?",
+      "Enough, stop. Just... *Sigh* just turn off your wifi connection for a second. Now do you see what I was trying to hint at? If you want to pass these tests then you'll need to think outside the box or, in this case, outside of this window.",
+      ""
+    ],
+    "pass": [
+      "*slow clap* Congratulations, you made it through the first chamber. I was worried I was testing a dunce, but you actually did 50% better than the last subject (good for you). But don't get too excited... I can be easily disappointed.",
+      "Now on to chamber 2..."
+    ]
+  },
+  "Level 2": {
+    "start": [
+      "Wait... what? Why isn't there-- urg! I thought I told Jerry to make sure everything was set up! Nevermind... This is why I always have a Plan B. *pages ruffling*",
+      "All right, I've got the replacement test here. For this chamber, you'll need to shrink it down to advance."
+    ],
+    "main": [
+      "Ah, there's the disappointment I was looking for. I literrally just told you what to do... Please note that there is the immediate, yet fortunate, termination of any subjects that fail to complete testing. Now, for your sake, this would be very unsatisfactory. So, I highly recommend that you solve this chamber in the best possible timeframe.",
+      "Annnnd you're still here. And here I was thinking that the fear of death would get you moving, but it seems to have done the complete opposite. Well, I suppose that for my own professional reputation I might as well lend you a hand. Take a good look at the browser you're trapped in. Yes, I said browser. Try making it slightly smaller.",
+      ""
+    ],
+    "pass": [
+      "There we go, you passed! But, uhm, let's keep the fact that I helped you between you and I, all right? Perfect! Please advance to the next chamber.",
+      "Also for the sake of the next test, please keep your screen this size."
+    ]
+  },
+  "Level 3": {
+    "start": [
+      "In your file it says you have a brain the size of a walnut, im not being mean, this is just a fact.",
+      "I thought you would like to know that some browsers require you to resize the browser slightly for it to recorded.",
+      "*yawn* Hey, subject, I'm going to take a quick nap, all right? Just give me a nudge when you're... Zzzz"
+    ],
+    "main": [
+      "Ah! W-what happened? Where am I? Oh, you're still stuck. As much as I appreciate you not disturbing me. We really need to move on, so... Could you please give me a nudge or a shake?",
+      ""
+    ],
+    "pass": [
+      "There we go. Not that difficult, right? Let's move on then to the next chamber."
+    ]
+  },
+  "Level 4": {
+    "start": [
+      "Good work subject! *cough, cough* Sorry, I'm not used to giving genuine positive feedback. Is my chest supposed to hurt like this?",
+      "Hrmm... This is a bit worrisome. I'm going to make a quick stop at the on-site nurse's office. In the meantime, you will remain here with those numbered input panels. Feel free to cycle through the numbers or do nothing. I'll be back soon."
+    ],
+    "main": [
+      "All right, I'm back. Turns out that I'm allergic to positivity. Go figure. Anyway, looks like you're not done yet. You're really just going to run down that clock, huh? By the way, what time is it over there?",
+      ""
+    ],
+    "pass": ["Well, that took you a while to figure out. Next chamber..."]
+  },
+  "Level 5": {
+    "start": [
+      "Hey, did you know that octopus cognition is extremely fascinating? Unlike yours, of course. What? I'm just stating a completely objective fact. But Google it if you don't believe me.",
+      "Hello? Yeah, hi, it's me. Will you be doing something, anything, anytime soon? If not, I'm just gonna take a break. You might as well too. Go watch some music video or something while I grab a coffee."
+    ],
+    "main": [
+      "I don't have all day, you know. Go look up a tutorial or something. I really don't care anymore... just quit wasting my time.",
+      ""
+    ],
+    "pass": [
+      "Finally, it's over! I can move on to more interesting things! All right subject, you can be on your way now. Go on, get! Shoo!"
+    ]
+  },
+  "Level 6": {
+    "start": [
+      "please note that a noticible decrease of sanity is not part of the testing and should be ignored."
+    ],
+    "main": [
+      "I have been told to not comment on the bomb in the room, but I had too anyway.  You have to beat the level before it goes off. However, if you do happen to die please contact the nearest living human to clean up your dead body."
+    ],
+    "pass": [""]
+  },
+  "Level 7": {
+    "start": [
+      "Please note that this next level contains some levels danger that could get you killed. This would be the least optimal situation. Stay safe, and remember to record all the results of the test."
+    ],
+    "main": [""],
+    "pass": [
+      "Ok so I lied, there was never any danger to this level, but at least it made you go a little faster, or was that just me? It was pretty entertaining watching you run around."
+    ]
+  },
+  "Level 8": {
+    "start": [
+      "(in the background) Hey jerry, pour me another cup of coffee, im going to need it to stay awake and take notes on subject 4 5 6 8. Oh, who left the intercom on, JERRY.... *cuts off* *static*"
+    ],
+    "main": [],
+    "pass": []
+  },
+  "Level 9": {
+    "start": [
+      "Jerry, did you install the explosive mines in the testing chamb-- Jerry! I told you to stop putting your mug on the control panel! intercom cuts out",
+      "Apologies subject 4568. Please disregard that and proceed with the level."
+    ],
+    "main": [],
+    "pass": []
+  },
+
+  "Start Instructions": [
+    "Make sure your game is fullscreen, also before we start allow microphone access.",
+    "It is however ok if you disagree with me, I cant force you to be right."
+  ],
+  "Idea": [
+    "Trapped in the console????",
+    "At the end say come on I didnt make any more levels, I didnt think anyone would make it this far. You broke my game."
+  ]
+}
